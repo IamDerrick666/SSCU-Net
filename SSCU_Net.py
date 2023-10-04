@@ -3,6 +3,12 @@ import torch.nn as nn
 import torch.nn.functional as F
 from thop import profile
 
+"""
+Authors: Yuquan Xu, Yuefei Wang
+Chengdu University
+2023.10
+For research and clinical study only, commercial use is strictly prohibited
+"""
 
 class ConvBlock(nn.Module):
     def __init__(self, in_channels, out_channels, kernel_size, stride=1, padding='same', dilation=1, function='normal',
