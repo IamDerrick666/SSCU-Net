@@ -15,4 +15,5 @@ Framework: Pytorch 1.13.0
 CUDA: Version 11.7
 
 # Moddel
-![image](https://github.com/IamDerrick666/SSCU-Net/assets/97382859/82a333b5-d62b-4f61-bd50-3221bb75c0fa)
+![image](https://github.com/IamDerrick666/SSCU-Net/assets/97382859/39a812c1-ad7a-43c9-bdd7-9a4d0b6174b0)
+
